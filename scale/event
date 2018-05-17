@@ -1,0 +1,15 @@
+{
+    "scale": "cosmological",
+    "events": [
+        {
+            "start_date": {
+                "year":			"-13798000000",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            ..
